@@ -37,16 +37,13 @@
 #include "articles/algo/backtracking.typ"
 #include "articles/algo/dp.typ"
 
-= Quality Control
-#include "articles/tdd/test.typ"
-#include "articles/tdd/workflow.typ"
+= Architecture
+#include "articles/design/test.typ"
+#include "articles/design/workflow.typ"
 
 = Git
 #include "articles/git/git.typ"
 #include "articles/git/branch.typ"
-
-= Entity Component System
-#include "articles/bevy/ecs.typ"
 
 = Web
 #include "articles/web/html.typ"

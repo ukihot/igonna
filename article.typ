@@ -41,8 +41,9 @@
 = An Introduction to Coding in Haskell
 #include "articles/haskell/syntax.typ"
 
-= Quality Control
-#include "articles/tdd/test.typ"
+= Architecture
+#include "articles/design/clean.typ"
+#include "articles/design/test.typ"
 
 = Git
 #include "articles/git/git.typ"
