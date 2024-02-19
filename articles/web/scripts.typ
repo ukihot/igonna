@@ -72,26 +72,6 @@ toucn index.html
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Exaple</title>
-    <style>
-      #toast {
-        display: flex;
-        visibility: hidden;
-        height: 60px;
-        width: 300px;
-        border: 1px solid rgba(0, 0, 0, 0.1);
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-      }
-      #toast > p {
-        margin: auto 8px;
-        font-size: 14px;
-        color: #155724;
-        letter-spacing: 0;
-        line-height: 18px;
-      }
-    </style>
   </head>
   <body>
     <div id="toast">
@@ -119,8 +99,5 @@ toucn index.html
 `<script>`タグで囲まれている箇所がJavaScriptにあたる。
 本書では、JavaScriptのシンタックスについては触れないが、`Coding`セクションが理解できていれば問題ない。
 既に`Rust`がプログラミング言語の中で母国語のような存在に昇格できていれば，おそらく`JavaScript`もある一定レベルまで読むことができるだろう。
-
-また、上記のHTMLには最低限の`CSS`によってスタイリングされている。
-削除した場合にどのようなふるまいになるか，確認してみるといい。
 
 == DOM

@@ -27,6 +27,7 @@
 #include "articles/rust/exercise.typ"
 
 = Algorithm
+#include "articles/algo/order.typ"
 #include "articles/algo/sort.typ"
 #include "articles/algo/search.typ"
 #include "articles/algo/backtracking.typ"
